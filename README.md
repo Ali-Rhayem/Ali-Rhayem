@@ -7,7 +7,7 @@ I'm a dedicated fullstack developer from Lebanon with a passion for technology a
 
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-rhayem&show_icons=true&locale=en)
-<img src='./assets/Animated.gif' height="200px">
+<img src='./assets/animated.gif' height="200px">
 
 
 ## Languages and Tools:
