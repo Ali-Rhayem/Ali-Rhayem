@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ali Rhayem</h1>
-<h3 align="center">A passionate frontend developer from Lebanon</h3>
+<h3 align="center">A passionate fullstack developer from Lebanon</h3>
 
-<p align="left"> <img src="./assets/Animated.gif" alt="ali-rhayem" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **my skills**
-
-- 🌱 I’m currently learning **laravel, node and react**
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <ul>
+      <li>🔭 I’m currently working on <strong>my skills</strong></li>
+      <li>🌱 I’m currently learning <strong>laravel, node and react</strong></li>
+    </ul>
+  </div>
+  <img src="./assets/animated.gif" height="200px" alt="ali-rhayem" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
+<a href='https://github.com/Ali-Rhayem'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='display: block;'>
+</a>
 <p align="left">
 </p>
 
